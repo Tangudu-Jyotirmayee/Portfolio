@@ -30,3 +30,14 @@ TASK-2 of my Web development and Designing internship at Oasis Infobyte.
 >Accessibility Enhancement: Implemented accessibility features such as proper semantic markup and ARIA attributes to enhance usability and ensure compliance with accessibility standards.
 
 >Design Consistency: Maintained design consistency throughout the portfolio while accommodating diverse content and project showcases, striking a balance between creativity and functionality.
+#SNAPSHOTS:
+![P1](https://github.com/Tangudu-Jyotirmayee/Portfolio/assets/170788125/e8a9a5e9-a148-4091-b287-575d5cb8856f)
+
+![P2](https://github.com/Tangudu-Jyotirmayee/Portfolio/assets/170788125/49adf6e5-7da9-46ed-a58c-8b53cdafefda)
+
+![P3](https://github.com/Tangudu-Jyotirmayee/Portfolio/assets/170788125/81e80d2d-2e13-40a8-830f-df4e40604fe2)
+
+![P4](https://github.com/Tangudu-Jyotirmayee/Portfolio/assets/170788125/53f7c681-b22b-417f-beef-2ba37b45b692)
+
+
+
